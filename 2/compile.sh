@@ -1,1 +1,1 @@
-g++ src/main.cpp -o bin/main
+g++ src/main1.cpp -o bin/main1
