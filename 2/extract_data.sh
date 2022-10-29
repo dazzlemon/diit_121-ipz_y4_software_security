@@ -1,1 +1,0 @@
-objcopy -O binary --only-section=.rodata bin/main1 main1.rodata.txt

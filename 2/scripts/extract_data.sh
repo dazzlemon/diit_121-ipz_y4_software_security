@@ -1,0 +1,1 @@
+objcopy -O binary --only-section=.data bin/main2 main2.data.txt

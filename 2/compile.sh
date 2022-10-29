@@ -1,1 +1,0 @@
-g++ src/main1.cpp -o bin/main1
