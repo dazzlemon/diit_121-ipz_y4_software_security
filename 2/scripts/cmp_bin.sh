@@ -1,0 +1,1 @@
+cmp -l bin/main2 bin/main2.cracked
