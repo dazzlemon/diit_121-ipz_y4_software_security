@@ -1,0 +1,1 @@
+diff main2.disassembled.txt main2.cracked.disassembled.txt
